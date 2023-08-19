@@ -14,9 +14,9 @@ from opencage.geocoder import OpenCageGeocode
 import folium
 
 
-number = "+xxxxxxxxxxxxx" # +CodeCountry PhoneNumber
+number = "+919865122122" # +CodeCountry PhoneNumber
 
-key = "xxxxxxxxxxxxxxxxxxxxxxxxxx" # From =>  https://opencagedata.com/dashboard#geocoding > API Keys
+key = "e8bae35e539e41fd9a645d2e188a29cf" # From =>  https://opencagedata.com/dashboard#geocoding > API Keys
 
 
 san_num = phonenumbers.parse(number)
